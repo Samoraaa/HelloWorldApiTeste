@@ -10,7 +10,7 @@ Pré-requisito: ter o [.NET SDK](https://dotnet.microsoft.com/download) instalad
 dotnet run
 ```
 
-Depois abra o navegador em `http://localhost:5000` e vai aparecer `Hello World!`.
+Depois abra o navegador em `http://localhost:5191` e vai aparecer `Hello World!`.
 
 ## 📦 Deploy
 
